@@ -18,7 +18,7 @@ To run this project, you will need Python installed on your machine. You can dow
 
 1. Clone the repository:
    ```bash
-   git clone https://your-repository-url
+   git clone https://github.com/domklusak/BVI_antispam_model.git
    cd path-to-your-project
    ```
    
@@ -31,7 +31,7 @@ To run this project, you will need Python installed on your machine. You can dow
 
 To run the spam classifier, execute the following command from the project directory:
  ```bash
-  pip install -r requirements.txt
+  python main.py
  ```
 
 ## Saving the Trained Model
