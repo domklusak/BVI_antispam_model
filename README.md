@@ -5,7 +5,7 @@ This project is an anti-spam email classifier built using a dataset of 5000 spam
 ## Project Structure
 
 - `main.py`: The main script that runs the classifier.
-- `spam_detector.pkl`: The trained model file.
+- `spam.csv`: Dataset of spam/ham emails.
 - `requirements.txt`: A list of libraries required to run the project.
 
 ## Dataset
