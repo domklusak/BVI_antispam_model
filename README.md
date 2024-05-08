@@ -17,10 +17,10 @@ The dataset used in this project consists of 5000 labeled emails divided into sp
 To run this project, you will need Python installed on your machine. You can download Python [here](https://www.python.org/downloads/). After installing Python, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/domklusak/BVI_antispam_model.git
-   cd path-to-your-project
-   ```
+```bash
+git clone https://github.com/domklusak/BVI_antispam_model.git
+cd path-to-your-project
+ ```
    
 2. Install the required packages:
   ```bash
